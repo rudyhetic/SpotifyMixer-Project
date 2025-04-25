@@ -1,4 +1,4 @@
-# Fusionner-Playlists-Spotify-Project 🎶🎧
+# SpotifyMixer-Project 🎶🎧
 
 Ce projet permet de **fusionner deux playlists Spotify** en une seule, en utilisant l'API de Spotify et un frontend développé avec **Vue.js**.
 
